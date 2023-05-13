@@ -115,6 +115,7 @@ class MainActivity : AppCompatActivity() {
                     adapter.addPlant(plant)
                     indexImg++
                     indexName++
-                }
             }
-        } }
+            }
+        }
+    }
